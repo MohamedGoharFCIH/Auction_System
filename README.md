@@ -1,0 +1,2 @@
+# Auction_System
+-the Auction system is a web Application which enables customers [bidder-product owner] to buy and sell cars by entering in auction .customer can enter auction to buy by bidding on product .the product will be solid to the highest price after a specified duration .     in order to customer can add product to sell it on system.   Customers can communicate with admin if there is a problem 
