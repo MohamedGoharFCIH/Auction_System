@@ -1,0 +1,86 @@
+body
+{
+	background-color: #f4f4f4;
+	font-size: 16px;
+}
+
+.addsec
+{
+	
+	margin: 20px;
+	
+}
+.Status
+{
+	margin: 20px auto;
+}
+
+.mainsettings ,.sections
+{
+	width: 350px;
+	margin: 20px auto;
+}
+.login , .register 
+{
+	width: 300px;
+	margin: 100px auto;
+}
+
+.login  input , .register input ,.mainsettings input ,.mainsettings textarea ,.sections input ,.sections textarea
+{
+	margin-top: 10px;
+}
+.login .btn , .register .btn , .mainsettings .btn ,.sections .btn
+{
+	background-color:#0080ff ;
+}
+.sections textarea
+{
+	margin-bottom: 20px;
+}
+
+.navbar
+{
+ border-radius: 0;
+ margin-bottom: 0;
+ 
+
+}
+.nav > li > a,
+.navbar-brand
+{
+padding: 15px 12px;
+
+}
+.navbar-brand
+{
+	font-size: 1em;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus ,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.dropdown-menu
+{
+	background-color: #3498db;
+}
+.dropdown-menu
+{
+	min-width: 180px;
+	padding: 0;
+	font-size: 1em;
+	border: none;
+	border-radius: 0;
+
+}
+.dropdown-menu > li > a
+{
+	color: #fff;
+	padding: 10px 15px;
+}
+.dropdown-menu > li > a:focus, 
+.dropdown-menu > li > a:hover
+{
+	color: #fff;
+	
+	background-color: #8e44ad;
+}
